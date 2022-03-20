@@ -4,15 +4,15 @@
 
 ---
 ## :computer: Development
-1. Start a simple Spark session.
+1. Start a simple Spark session.  
 ![Imagen 1](img/img_001.PNG)
-2. Load the Netflix Stock CSV file, have Spark infer the data types.
+2. Load the Netflix Stock CSV file, have Spark infer the data types.  
 ![Imagen 2](img/img_002.PNG)
-3. What are the names of the columns?
+3. What are the names of the columns?  
 ![Imagen 3](img/img_003.PNG)
-4. How is the scheme?
+4. How is the scheme?  
 ![Imagen 4](img/img_004.PNG)
-5. Print the first 5 columns.
+5. Print the first 5 columns.  
 ![Imagen 5](img/img_005.PNG)
 6. Use describe() to learn about the DataFrame.
 ![Imagen 6](img/img_006.PNG)
