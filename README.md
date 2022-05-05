@@ -19,8 +19,11 @@
 ## :books: Content
 
 ## Unit 1
-
-
+2. :book: [Practice 2](https://github.com/JoseAguilar9812/datos_masivos/blob/development/practices/practice_2.scala)
+3. :book: [Practice 3](https://github.com/JoseAguilar9812/datos_masivos/blob/development/practices/Practica%203.scala)
+4. :book: [Practice 4](https://github.com/JoseAguilar9812/datos_masivos/blob/development/practices/practica4.scala)
+5. :book: [Evaluation - Code](https://github.com/JoseAguilar9812/datos_masivos/blob/development/evaluation/evaluation_1.scala)
+6. :book: [Evaluation - MD](https://github.com/JoseAguilar9812/datos_masivos/blob/development/evaluation/evaluation_1.md)
 ## Unit 2
 
 ## Unit 3
