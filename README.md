@@ -25,7 +25,8 @@
 5. :book: [Evaluation - Code](https://github.com/JoseAguilar9812/datos_masivos/blob/development/evaluation/evaluation_1.scala)
 6. :book: [Evaluation - MD](https://github.com/JoseAguilar9812/datos_masivos/blob/development/evaluation/evaluation_1.md)
 ## Unit 2
-
+1. :book: [Practice 1](https://github.com/JoseAguilar9812/datos_masivos-basic_statistics-expo/blob/main/expo.md)
+2. :book: [Practice 2](https://github.com/JoseAguilar9812/datos_masivos/blob/unit-2/unit-2/practices/practice-2.scala)
 ## Unit 3
 
 ## Unit 4
